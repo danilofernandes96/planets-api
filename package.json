@@ -5,5 +5,8 @@
   "main": "server.js",
   "repository": "git@github.com:danilofernandes96/planets-api.git",
   "author": "Danilo Fernandes <fernandes.danilo1996@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
