@@ -10,3 +10,7 @@ routes.get('/', async(req, res) => {
     "/planet:id": "Busca um planeta pelo seu id"
   });
 });
+
+routes.get('/planets', async(req, res) => {
+  return res.json(db.planets);
+});
