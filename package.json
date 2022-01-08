@@ -6,6 +6,9 @@
   "repository": "git@github.com:danilofernandes96/planets-api.git",
   "author": "Danilo Fernandes <fernandes.danilo1996@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "express": "^4.17.2"
   },
