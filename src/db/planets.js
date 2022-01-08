@@ -1,4 +1,4 @@
-{
+export default {
   "planets": [
     {
       "id": "1",

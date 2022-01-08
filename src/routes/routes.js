@@ -1,6 +1,6 @@
 import { Router } from "express";
 
-import db from '../db/planets.json';
+import db from '../db/planets.js';
 
 const routes = Router();
 
